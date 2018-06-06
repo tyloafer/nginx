@@ -2,8 +2,9 @@
 
 ## 简介
 
-| 语法:   | `location operation condition { ... }` |
+| key   | value |
 | ------- | -------------------------------------- |
+| 语法:   | `location operation condition { ... }` |
 | 默认值: | —                                      |
 | 上下文: | `server`                               |
 

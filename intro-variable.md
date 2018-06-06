@@ -2,7 +2,7 @@
 
 ## 介绍
 
-- \$args ： 这个变量等于请求行中的参数，同\$query_string
+- $args ： 这个变量等于请求行中的参数，同\$query_string
 
 - $content_length ： 请求头中的Content-length字段。
 
@@ -40,7 +40,7 @@
 
 - $request_uri ： 包含请求参数的原始URI，不包含主机名，如：”/foo/bar.php?arg=baz”。
 
-- \$uri ： 不带请求参数的当前URI，$uri不包含主机名，如”/foo/bar.html”。
+- $uri ： 不带请求参数的当前URI，\$uri不包含主机名，如”/foo/bar.html”。
 
 - \$document_uri ： 与$uri相同。
 
