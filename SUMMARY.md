@@ -13,7 +13,9 @@
    * [proxy-pass](use-proxy-pass.md)
 * 第三部分 进阶
    * [负载均衡](advanced-load-balance.md)
-   * [lua-redis](advance-lua-redis.md)
+   * nginx-lua
+      * [lua-redis](advance-lua-redis.md)
+      * [lua-response](advance-lua-redis.md)
 * 第四部分 模块
    * [权限验证](module-auth.md)
    * [请求限制](module-request-limit.md)
