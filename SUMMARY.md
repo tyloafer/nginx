@@ -14,6 +14,7 @@
 * 第三部分 进阶
    * [负载均衡](advanced-load-balance.md)
    * nginx-lua
+      * [lua简介](advanced-lua.md)
       * [lua-redis](advance-lua-redis.md)
       * [lua-response](advance-lua-redis.md)
 * 第四部分 模块
